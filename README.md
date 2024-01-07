@@ -1,2 +1,2 @@
 # DL_ISF
-Introduction aux réseau de neurones - Master ISF à Dauphine
+* Séance 1 (08/01/2023) - Réseau de neurones dense
