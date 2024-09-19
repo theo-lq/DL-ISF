@@ -1,5 +1,12 @@
 # Introduction aux réseaux de neurones - ISF parcours Classique
 
+> [!IMPORTANT]
+> Les documents sont mis à jour au fil des séances et supprimés chaque année. Si vous avez besoin de l'ensemble des documents, contactez-moi directement.
+
+## Promotion 2024 - 2025
+* Séance 1 (26/11/2024) - Réseau de neurones dense
+
+
 ## Promotion 2023 - 2024
 * Séance 1 (08/01/2024) - Réseau de neurones dense
 * Séance 2 (15/01/2024) - Réseau de neurones convolutionnel
