@@ -4,7 +4,7 @@
 > Les documents sont mis à jour au fil des séances et supprimés chaque année. Si vous avez besoin de l'ensemble des documents, contactez-moi directement.
 
 ## Promotion 2024 - 2025
-* Séance 1 (26/11/2024) - Réseau de neurones dense
+* Séance 1 (26/11/2024) - Réseau de neurones dense ([feedback](https://forms.gle/uWkgcqeCH4WJWyjd9))
 
 
 ## Promotion 2023 - 2024
