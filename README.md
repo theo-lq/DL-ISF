@@ -5,7 +5,8 @@
 
 ## Promotion 2024 - 2025
 * Séance 1 (26/11/2024) - Réseau de neurones dense
-* Séance 2 (03/12/2024) - Réseau de neurones convolutionnel ([feedback](https://forms.gle/tYgRS1Wy3ZWCM6Dw7))
+* Séance 2 (03/12/2024) - Réseau de neurones convolutionnel
+* Séance 3 (13/01/2025) - Compléments sur les réseaux de neurones ([feedback](https://forms.gle/z6TkzjTf3cokZT777))
 
 
 ## Promotion 2023 - 2024
