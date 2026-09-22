@@ -2,7 +2,6 @@
 
 > [!IMPORTANT]
 > Les documents sont mis à jour au fil des séances et supprimés chaque année. Si vous avez besoin de l'ensemble des documents, contactez-moi directement.
-> Ils sont pour le moment tous indisponible pour cause de révision pour l'année scolaire 2026-2027.
 
 ## Promotion 2026 - 2027
 * Séance 1 (23/09/2026) - Réseau de neurones dense
