@@ -2,13 +2,19 @@
 
 > [!IMPORTANT]
 > Les documents sont mis à jour au fil des séances et supprimés chaque année. Si vous avez besoin de l'ensemble des documents, contactez-moi directement.
-> Ils sont pour le moment tous indisponible pour cause de révision pour l'année scolaire 2025-2026.
+> Ils sont pour le moment tous indisponible pour cause de révision pour l'année scolaire 2026-2027.
+
+## Promotion 2026 - 2027
+* Séance 1 (23/09/2026) - Réseau de neurones dense
+* Séance 2 (29/09/2026) - Réseau convolutionnel
+* Séance 3 (06/10/2026) - Descente de gradient
+* Séance 4 (XX/XX/XXXX) - Réseau de neurone récurrents
 
 ## Promotion 2025 - 2026
 * Séance 1 (29/10/2025) - Réseau de neurones dense
 * Séance 2 (05/11/2025) - Réseau convolutionnel
 * Séance 3 (12/11/2025) - Compléments sur les réseaux de neurones
-* Séance 4 (19/11/2025)
+* Séance 4 (19/11/2025) - Réseau de neurones récurrents
   
 
 ## Promotion 2024 - 2025
